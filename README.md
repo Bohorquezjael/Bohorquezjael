@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Mexico And Student on Systems Engineering</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bohorquezjael" alt="bohorquezjael" /></a> </p>
-<url>https://www.codewars.com/users/Bohorquezjael/badges/large</url>
+<img src ="https://www.codewars.com/users/Bohorquezjael/badges/large"/>
 
 - 🌱 I’m currently learning **Angular, SpringBoot**
 
