@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jael Alonso Bohorquez</h1>
 <h3 align="center">A passionate Backend developer from Mexico And Student on Systems Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bohorquezjael" alt="bohorquezjael" /></a> </p>
-<img src ="https://www.codewars.com/users/Bohorquezjael/badges/large"/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bohorquezjael&theme=darkhub&column=-1&margin-w=15" alt="bohorquezjael" /></a> </p>
+<p align="center">
+<img src ="https://www.codewars.com/users/Bohorquezjael/badges/large"/></p>
 
 - 🌱 I’m currently learning **Angular, SpringBoot**
 
@@ -12,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jael-alonso-bohorquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jael-bohorquez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/332384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="332384" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaelalonso88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaelalonso88" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bohorquezjael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bohorquezjael" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jael-alonso-bohorquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jael-bohorquez" height="30" width="40" margin="15" /></a>
+<a href="https://stackoverflow.com/users/332384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="332384" height="30" width="40"  margin="15"/></a>
+<a href="https://www.hackerrank.com/jaelalonso88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaelalonso88" height="30" width="40"  margin="15"/></a>
+<a href="https://www.leetcode.com/bohorquezjael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bohorquezjael" height="30" width="40" margin="15" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
