@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bohorquezjael&show_icons=true&theme=dark" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohorquezjael&layout=compact&theme=dark" alt="top langs" />
+  <img src="https://stats.dooboo.io/api?username=bohorquezjael&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://stats.dooboo.io/api/top-langs/?username=bohorquezjael&layout=compact&theme=dark" alt="top langs" />
 </p>
 
 - 🌱 I'm currently learning **SpringBoot, Arduino**
